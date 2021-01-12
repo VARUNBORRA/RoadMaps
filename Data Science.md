@@ -3,5 +3,5 @@
 
 ## week 1 and week 2
 
-| week | courses links |
-|---|---|---|
+WEEKS | COURSES
+------------ | -------------
