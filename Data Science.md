@@ -5,7 +5,9 @@
 
 WEEKS | Excel | COURSES  
 ------------ | -------------  | -------------
-WEEK 1 | Excel | FreeCodeCamp Youtube Channel [Click Here](https://www.youtube.com/watch?v=Vl0H-qTclOg&t) <br/><br> Chandoo's Youtube Channel: [Click Here](https://www.youtube.com/channel/UC8uU_wruBMHeeRma49dtZKA)
+WEEK 1 | Excel | FreeCodeCamp Youtube Channel [Click Here](https://www.youtube.com/watch?v=Vl0H-qTclOg&t)
+ | |Chandoo's Youtube Channel: [Click Here](https://www.youtube.com/channel/UC8uU_wruBMHeeRma49dtZKA)
+
 WEEK 2 | Statistics | Khan academy: https://www.khanacademy.org/math/statistics-probability
 Khan academy youtube: https://www.youtube.com/playlist?list=PL1328115D3D8A2566
 Statistics by Marin : https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa
