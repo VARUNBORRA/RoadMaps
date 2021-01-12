@@ -6,4 +6,5 @@
 WEEKS | TOPICS | COURSES 
 ------------ | -------------  | -------------
 WEEK 1 | Excel | COURSES 
+WEEK 1 | Excel | COURSES 
 
