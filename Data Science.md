@@ -6,6 +6,6 @@
 WEEKS | Excel | COURSES  
 ------------ | -------------  | -------------
 WEEK 1 | Excel | FreeCodeCamp Youtube Channel [Click Here](https://www.youtube.com/watch?v=Vl0H-qTclOg&t)
-       |       |Chandoo's Youtube Channel: [Click Here](https://www.youtube.com/channel/UC8uU_wruBMHeeRma49dtZKA)
+       |  -->  |Chandoo's Youtube Channel: [Click Here](https://www.youtube.com/channel/UC8uU_wruBMHeeRma49dtZKA)
 
 WEEK 2 | Statistics |
