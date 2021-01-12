@@ -3,5 +3,5 @@
 
 ## week 1 and week 2
 
-WEEKS | COURSES
------------- | -------------
+WEEKS | TOPICS | COURSES 
+------------ | -------------  | -------------
