@@ -40,4 +40,5 @@ kudavenkat playlist (first 16): [Click Here](https://www.youtube.com/playlist?li
 
 ## Week 21, 22, 23, 24: BI tools
 
-**Tableau**
+Tableau: [Click Here](https://www.youtube.com/playlist?list=PL6_D9USWkG1C4raCOTlTf_oq4XnNNNtm9) | Power Bi : [Click Here](https://www.youtube.com/playlist?list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX) 
+------------ | -------------
