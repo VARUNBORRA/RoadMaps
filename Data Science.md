@@ -25,7 +25,7 @@ WEEK 5 & 6 | NumPy and Pandas | Codebasics Numpy playlist  [Click Here](https://
 WEEK 7 & 8 | Visualization library  | Matplotlib: codebasics matplotlib playlist     [Click Here](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl ) <br/> Seaborn: codebasics seaborn tutorials:         [Click Here](https://www.youtube.com/playlist?list=PLJIOr9Je9wzHT-ptgfelpt2Nyx4VGX_j9)
 
 ## Kaggle exploratory data analysis
-Notebooks: [Click Here](https://www.kaggle.com/notebooks) | Datasets : [Click Here](https://www.kaggle.com/datasets) |   
+Notebooks: [Click Here](https://www.kaggle.com/notebooks) | Datasets : [Click Here](https://www.kaggle.com/datasets) 
 ------------ | -------------  | -------------
 
 
