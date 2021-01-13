@@ -9,3 +9,10 @@ WEEK 1 | Excel | FreeCodeCamp Youtube Channel  [Click Here](https://www.youtube.
 WEEK 1 | Excel | Chandoo's Youtube Channel:    [Click Here](https://www.youtube.com/channel/UC8uU_wruBMHeeRma49dtZKA)
 WEEK 2 | Statistics | Khan academy             [Click Here](https://www.khanacademy.org/math/statistics-probability) <br/> Statistics by Marin      [Click Here](https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa) <br/> Statquest youtube channel: [Click Here](https://www.youtube.com/user/joshstarmer)
 
+## Week 3 and 4: Python
+
+WEEKS | Excel | COURSES  
+------------ | -------------  | -------------
+WEEK 1 | Excel | FreeCodeCamp Youtube Channel  [Click Here](https://www.youtube.com/watch?v=Vl0H-qTclOg&t)
+WEEK 1 | Excel | Chandoo's Youtube Channel:    [Click Here](https://www.youtube.com/channel/UC8uU_wruBMHeeRma49dtZKA)
+WEEK 2 | Statistics | Khan academy             [Click Here](https://www.khanacademy.org/math/statistics-probability)
