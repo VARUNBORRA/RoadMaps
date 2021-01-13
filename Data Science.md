@@ -28,7 +28,8 @@ WEEK 7 & 8 | Visualization library  | Matplotlib: codebasics matplotlib playlist
 Notebooks: [Click Here](https://www.kaggle.com/notebooks) | Datasets : [Click Here](https://www.kaggle.com/datasets) 
 ------------ | -------------  
 
-
-## Week 9, 10, 11, 12: Machine Learning
+## Week 9, 10, 11, 12, 13, 14, 15, 16: Machine Learning & Deep Learning
+Machine Learning: [Click Here](https://www.skillbasics.com/courses/machine-learning-for-beginners) | skillbasics website 
+------------ | -------------  
 Machine Learning: [Click Here](https://www.skillbasics.com/courses/machine-learning-for-beginners) | skillbasics website 
 ------------ | -------------  
