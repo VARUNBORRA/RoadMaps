@@ -13,6 +13,6 @@ WEEK 2 | Statistics | Khan academy             [Click Here](https://www.khanacad
 
 WEEKS | Excel | COURSES  
 ------------ | -------------  | -------------
-WEEK 1 | Excel | FreeCodeCamp Youtube Channel  [Click Here](https://www.youtube.com/watch?v=Vl0H-qTclOg&t)
-WEEK 1 | Excel | Chandoo's Youtube Channel:    [Click Here](https://www.youtube.com/channel/UC8uU_wruBMHeeRma49dtZKA)
-WEEK 2 | Statistics | Khan academy             [Click Here](https://www.khanacademy.org/math/statistics-probability)
+WEEK 3 & 4 | Python | Codebasics python tutorials (first 16)  [Click Here](https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0) <br/> Make sure to work on exercises
+if you are intrested to learn R|
+WEEK 2 | R  | Marin's lecture            [Click Here](https://www.youtube.com/playlist?list=PLqzoL9-eJTNBlVXxWvJkq0dtVut2sICUW)
