@@ -29,7 +29,11 @@ Notebooks: [Click Here](https://www.kaggle.com/notebooks) | Datasets : [Click He
 ------------ | -------------  
 
 ## Week 9, 10, 11, 12, 13, 14, 15, 16: Machine Learning & Deep Learning
+
+## Machine Learning
 Machine Learning: [Click Here](https://www.skillbasics.com/courses/machine-learning-for-beginners) | skillbasics website 
 ------------ | -------------  
-Machine Learning: [Click Here](https://www.skillbasics.com/courses/machine-learning-for-beginners) | skillbasics website 
+
+## Deep Learning
+Deep Learning: [Click Here](https://www.skillbasics.com/courses/deep-learning-with-tensorflow-keras-and-python) | skillbasics website 
 ------------ | -------------  
