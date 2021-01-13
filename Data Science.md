@@ -30,7 +30,11 @@ Notebooks: [Click Here](https://www.kaggle.com/notebooks) | Datasets : [Click He
 
 ## Week 9, 10, 11, 12, 13, 14, 15, 16: Machine Learning & Deep Learning
 
-## Machine Learning & Deep Learning
 Machine Learning: [Click Here](https://www.skillbasics.com/courses/machine-learning-for-beginners) | Deep Learning: [Click Here](https://www.skillbasics.com/courses/deep-learning-with-tensorflow-keras-and-python) 
+------------ | -------------  
+
+## Week 17, 18, 19, 20: SQL
+
+kudavenkat playlist (first 16): [Click Here](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB)|khanacademy SQL course: [Click Here](https://www.khanacademy.org/computing/computer-programming/sql) 
 ------------ | -------------  
 
