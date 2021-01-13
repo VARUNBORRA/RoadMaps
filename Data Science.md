@@ -38,3 +38,6 @@ Machine Learning: [Click Here](https://www.skillbasics.com/courses/machine-learn
 kudavenkat playlist (first 16): [Click Here](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB)|khanacademy SQL course: [Click Here](https://www.khanacademy.org/computing/computer-programming/sql) 
 ------------ | -------------  
 
+## Week 21, 22, 23, 24: BI tools
+
+**Tableau**
