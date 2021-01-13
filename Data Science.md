@@ -11,7 +11,7 @@ WEEK 2 | Statistics | Khan academy             [Click Here](https://www.khanacad
 
 ## Week 3 and 4: Python
 
-WEEKS | Excel | COURSES  
+WEEKS | Languages | COURSES  
 ------------ | -------------  | -------------
 WEEK 3 & 4 | Python | Codebasics python tutorials (first 16)  [Click Here](https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0) <br/> Make sure to work on exercises
 if you are intrested to learn R|
@@ -19,11 +19,16 @@ if you are intrested to learn R|
 
 ## Week 5, 6, 7, 8: Numpy, Pandas, Data Visualization Libraries
 
-WEEKS | Excel | COURSES  
+WEEKS | Visualization Libraries | COURSES  
 ------------ | -------------  | -------------
 WEEK 5 & 6 | NumPy and Pandas | Codebasics Numpy playlist  [Click Here](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU) <br/> Codebasics pandas playlist (first 9) [Click Here](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 WEEK 7 & 8 | Visualization library  | Matplotlib: codebasics matplotlib playlist     [Click Here](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl ) <br/> Seaborn: codebasics seaborn tutorials:         [Click Here](https://www.youtube.com/playlist?list=PLJIOr9Je9wzHT-ptgfelpt2Nyx4VGX_j9)
 
 ## Kaggle exploratory data analysis
-Notebooks: [Click Here](https://www.kaggle.com/notebooks) | Datasets : [Click Here](https://www.kaggle.com/datasets) | COURSES  
+Notebooks: [Click Here](https://www.kaggle.com/notebooks) | Datasets : [Click Here](https://www.kaggle.com/datasets) |   
+------------ | -------------  | -------------
+
+
+## Week 9, 10, 11, 12: Machine Learning
+Machine Learning: [Click Here](https://www.skillbasics.com/courses/machine-learning-for-beginners) | skillbasics website 
 ------------ | -------------  | -------------
