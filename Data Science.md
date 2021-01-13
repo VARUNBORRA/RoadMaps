@@ -23,3 +23,7 @@ WEEKS | Excel | COURSES
 ------------ | -------------  | -------------
 WEEK 5 & 6 | NumPy and Pandas | Codebasics Numpy playlist  [Click Here](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU) <br/> Codebasics pandas playlist (first 9) [Click Here](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 WEEK 7 & 8 | Visualization library  | Matplotlib: codebasics matplotlib playlist     [Click Here](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl ) <br/> Seaborn: codebasics seaborn tutorials:         [Click Here](https://www.youtube.com/playlist?list=PLJIOr9Je9wzHT-ptgfelpt2Nyx4VGX_j9)
+
+## Kaggle exploratory data analysis
+Notebooks: [Click Here](https://www.kaggle.com/notebooks) | Excel | COURSES  
+------------ | -------------  | -------------
