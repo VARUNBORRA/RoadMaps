@@ -42,6 +42,7 @@ kudavenkat playlist (first 16): [Click Here](https://www.youtube.com/playlist?li
 
 Tableau: [Click Here](https://www.youtube.com/playlist?list=PL6_D9USWkG1C4raCOTlTf_oq4XnNNNtm9) | Power Bi : [Click Here](https://www.youtube.com/playlist?list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX) 
 ------------ | -------------
+project (power Bi) | [Click Here](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
+project (Tableau)  | [Click Here](https://www.youtube.com/playlist?list=PLeo1K3hjS3usDI9XeUgjNZs6VnE0meBrL)
 
 
-`Project`
